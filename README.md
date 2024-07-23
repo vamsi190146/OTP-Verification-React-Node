@@ -64,5 +64,5 @@ This project is open-source and available under the MIT License.
 
 Contact
 Vamsi Tadiparthi - GitHub
-Email - your-email@gmail.com
+Email - tadiparthivamsi.gmail.com
 
